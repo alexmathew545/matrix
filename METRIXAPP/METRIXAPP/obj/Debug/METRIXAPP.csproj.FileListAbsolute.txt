@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\METRIXAPP\METRIXAPP\bin\Debug\METRIXAPP.exe.config
+C:\Users\Alex\source\repos\METRIXAPP\METRIXAPP\bin\Debug\METRIXAPP.exe
+C:\Users\Alex\source\repos\METRIXAPP\METRIXAPP\bin\Debug\METRIXAPP.pdb
+C:\Users\Alex\source\repos\METRIXAPP\METRIXAPP\obj\Debug\METRIXAPP.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\METRIXAPP\METRIXAPP\obj\Debug\METRIXAPP.Form1.resources
+C:\Users\Alex\source\repos\METRIXAPP\METRIXAPP\obj\Debug\METRIXAPP.Properties.Resources.resources
+C:\Users\Alex\source\repos\METRIXAPP\METRIXAPP\obj\Debug\METRIXAPP.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\METRIXAPP\METRIXAPP\obj\Debug\METRIXAPP.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\METRIXAPP\METRIXAPP\obj\Debug\METRIXAPP.exe
+C:\Users\Alex\source\repos\METRIXAPP\METRIXAPP\obj\Debug\METRIXAPP.pdb
